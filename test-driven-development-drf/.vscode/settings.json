@@ -1,0 +1,6 @@
+{
+  "python.pythonPath": "/home/egehan/Desktop/django-tdd/.venv/bin/python",
+  "editor.formatOnSave": true,
+  "python.formatting.provider": "black",
+  "python.languageServer": "Jedi"
+}
